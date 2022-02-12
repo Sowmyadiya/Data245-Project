@@ -5,10 +5,10 @@ People are currently considering where to settle based on work availability and 
 
 ## Technologies Used:
 
-1) The datasets collected from various sources are merged and explored using pandas, numpy, seaborn, matplotlib and KNNImputer libraries.
-2) Equal Frequency and Equal Width binning is performed to group related values in bins to reduce the number of distinct values.
-3) One-Hot encoding to convert the categorical variables into a form that can be provided to ML algorithm for better predictions
-4) This is a supervised multiclass classification problem and hence the below models are proposed:
+1) The datasets collected from various sources are merged and explored using **pandas, numpy, seaborn, matplotlib and KNNImputer libraries**.
+2) **Equal Frequency and Equal Width binning** is performed to group related values in bins to reduce the number of distinct values.
+3) **One-Hot encoding** to convert the categorical variables into a form that can be provided to ML algorithm for better predictions
+4) This is a **supervised multiclass classification** problem and hence the below models are proposed:
   Models:
     1) Decision Tree
     2) K-Nearest Neighbor
@@ -22,7 +22,7 @@ People are currently considering where to settle based on work availability and 
    5) ROC-AUC curves
    6) Learning Curves
    
-6) Interactive UI Build using the Streamlit (An open-source Python library) 
+6) Interactive UI Build using the **Streamlit** (An open-source Python library) 
 
 ## Steps Involved:
 
