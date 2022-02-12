@@ -1,4 +1,4 @@
-## Data245-Project
+## Job Location Suggestion Using Machine Learning
 Job Location Suggesstion Using Machine Learning
 People are currently considering where to settle based on work availability and living conditions. Researching job availability, location, payscale and other factors is time consuming and also there is no mechanism for determining a person’s ideal job and settling location.The goal of the project is to build a location recommendation system for job-searchers to help them settle in a tranquil environment that suits their preferences. Many websites such as glass door , levels fyi  predict salaries based on various attributes such as location , job roles ,years of experience and so on. But not the location based on the individual's preference. 
 
