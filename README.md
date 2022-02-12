@@ -11,6 +11,8 @@ People are currently considering where to settle based on work availability and 
     - K-Nearest Neighbor
     - AdaBoost
     - XGBoost
+- AdaBoost achieved accuracy rate of 99.89%
+  AdaBoost has highest True positive rate compare to all other models.
 
 ## Steps Involved
 
